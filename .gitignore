@@ -112,3 +112,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# datasets
+data/large/yellow_tripdata_2015-01.csv
+data/large/yellow_tripdata_2015-02.csv
+data/large/yellow_tripdata_2015-03.csv
+data/large/yellow_tripdata_2015-04.csv
+data/large/yellow_tripdata_2015-05.csv
+data/large/yellow_tripdata_2015-06.csv
+data/large/yellow_tripdata_2015-07.csv
+data/large/yellow_tripdata_2015-08.csv
+data/large/yellow_tripdata_2015-09.csv
+data/large/yellow_tripdata_2015-10.csv
+data/large/yellow_tripdata_2015-11.csv
+data/large/yellow_tripdata_2015-12.csv
